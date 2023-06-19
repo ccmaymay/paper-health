@@ -1,6 +1,6 @@
 # Paper Health
 
-A web app that tracks important metrics concerning the health of today's research papers.  The current focus of the app is shedding light on the acronym crisis.
+A web app that sheds light on the acronym crisis in today's scientific research.
 
 ## Acknowledgments
 
