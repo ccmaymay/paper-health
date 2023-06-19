@@ -1,0 +1,1 @@
+GET http://export.arxiv.org/oai2?verb=ListRecords&set=cs&metadataPrefix=arXiv&from=2023-06-15&until=2023-06-15
